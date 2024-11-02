@@ -1,13 +1,13 @@
-#CsBinUtils
+# CsBinUtils
 Binary utilities made by me
 
-###lc
+### lc
 Line counter.
 Counts the lines in a text file.
 
-###8ball
+### 8ball
 Gives you a random answer.
 
-###randline
+### randline
 Random Line.
 Choses a random line from a given textfile.
