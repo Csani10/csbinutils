@@ -1,5 +1,3 @@
-CC=gcc
-
 all: randline lc 8ball
 
 randline:
