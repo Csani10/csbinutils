@@ -1,6 +1,18 @@
 # CsBinUtils
 Binary utilities made by me
 
+## Building
+To build all utilities, run:
+```
+make
+```
+
+To build only one utility, run:
+```
+make <utility name>
+```
+
+## Utilities
 ### lc
 Line counter.
 Counts the lines in a text file.
