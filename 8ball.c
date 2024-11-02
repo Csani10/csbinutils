@@ -19,7 +19,7 @@ int main()
 		"Maybe"
 	};
 
-	int randNum = rand() % (10 + 1);
+	int randNum = rand() % (10);
 
 	printf("%s\n", answers[randNum]);
 	return 0;
